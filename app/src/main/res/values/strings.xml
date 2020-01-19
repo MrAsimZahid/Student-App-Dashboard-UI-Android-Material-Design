@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StudentAppDashboard</string>
+    <string name="back_text">BACK</string>
 </resources>
